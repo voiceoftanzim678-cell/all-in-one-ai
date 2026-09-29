@@ -1,0 +1,6 @@
+{
+  "name": "ALL IN ONE - Discover the Right AI for Everything",
+  "description": "Comprehensive AI tools directory for Chat, Image, Video, Music, Coding, Design, Writing, and Productivity. Search and discover the best AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
